@@ -1,0 +1,20 @@
+#
+# Managed by uv. Prefer `uv sync` for installation.
+# To refresh this file with pinned versions: UV_CACHE_DIR=.uv-cache uv export --no-dev --frozen > requirements.txt
+selenium
+pyautogui
+webdriver_manager
+PyYAML
+validate_email
+openai>=1.0.0
+pypdf>=3.0.0
+ollama
+docx2pdf
+docx
+litellm
+PyPDF2
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+requests
